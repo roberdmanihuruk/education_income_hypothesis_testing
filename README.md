@@ -1,4 +1,4 @@
-# Hypothesis Testing: Does a college degree affect people’s income?
+# Hypothesis Testing: Does a college degree affect people’s income? 
 
 Hypothesis testing concept on the impact of education (degree level) on income.
 
@@ -6,4 +6,11 @@ I used a basic central tendency measurement (mean, median, mode) and spread meas
 
 This analysis used [marketing_campaign.csv](https://github.com/roberdmanihuruk/education_income_hypothesis_testing/blob/main/marketing_campaign.csv)
 
-[Read more!](https://medium.com/@roberdmanihuruk17/does-a-college-degree-affect-peoples-income-9f410fcec7d)
+
+
+## Result of hypothesis testing
+
+We analyze it with anova testing, and the p value > 0.05 which indicates the a college degree (education level) affects people's income
+![image](https://user-images.githubusercontent.com/100394930/163572808-f387f44f-6817-49b5-82b5-8e1d0e4c7f02.png)
+
+[Read on medium](https://medium.com/@roberdmanihuruk17/does-a-college-degree-affect-peoples-income-9f410fcec7d)
